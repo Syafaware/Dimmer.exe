@@ -1,0 +1,8 @@
+================================================================================
+Linker Errors
+Generated: 2026-11-24T22:10:42.465Z
+Total Errors: 1
+================================================================================
+
+[LNK1168] (MSVC)
+cannot open C:\Users\Syafaat\Desktop\AppsDevelopment\Dimmer\build\Debug\Dimmer.exe for writing (error code: 32) [C:\Users\Syafaat\Desktop\AppsDevelopment\Dimmer\build\Dimmer.vcxproj]

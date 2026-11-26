@@ -1,0 +1,3 @@
+C:/Users/Syafaat/Desktop/AppsDevelopment/Dimmer/build/CMakeFiles/Dimmer.dir
+C:/Users/Syafaat/Desktop/AppsDevelopment/Dimmer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Syafaat/Desktop/AppsDevelopment/Dimmer/build/CMakeFiles/ZERO_CHECK.dir
